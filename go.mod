@@ -1,4 +1,4 @@
-module github.com/yanisapths/lambda.git
+module github.com/yanisapths/GO-Todo.git
 
 go 1.19
 
